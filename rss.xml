@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[@lapacazo-What Do You Know?]]></title>
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 21:44:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 21:44:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f15de9-b220-4279-8017-16719236f834.jpg">]]></description>
-            <link>undefinedlapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
+            <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
-            <pubDate>Sun, 13 Mar 2016 21:44:09 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 21:44:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
