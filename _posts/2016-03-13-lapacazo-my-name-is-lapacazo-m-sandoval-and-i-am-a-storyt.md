@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "@lapacazo. My name is Lapacazo M. Sandoval and I am a storyteller. I am a unit publicist. I am a journalist. \_I am a soul that loves discovering ... discovering new people, new worlds and new parts of myself. \_"
-datePublished: '2016-03-13T21:44:25.165Z'
-dateModified: '2016-03-13T21:44:23.236Z'
+datePublished: '2016-03-13T23:14:03.424Z'
+dateModified: '2016-03-13T23:12:47.285Z'
 title: ''
 author: []
 authors: []
@@ -40,16 +40,11 @@ But let me walk backward again and share that, as a storyteller, I am developing
 
 The first is The SleepyTown Collection which is about a bully free, magical world where all kids are loved equally, and animals pretty much run the magical joint.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44576b81-eb9e-4956-9284-bcc18e4d7c0f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c780768c-8d8f-472e-a868-f2eba97a1950.jpg)
+The second multi-media children property is BOOGALOO.  Hold on to your hats, this adventure is about a feisty, dance-crazed fairy that's being chased by a handsome, rap obsessed and spoiled pre-tween prince and his  immortal side-kick D.J. Badger.
 
-The second children property is BOOGALOO which is about a feisty, dance-crazed fairy that's being chased by a rap obsessed and spoiled prince, and his side-kick DJ Badger.
+The third is Lady, The Smiling Pitbull which is a modern, urban fairytale set to music which follows the magical, mis-adventures of Lady, a baby pitbull who just wants to be "pretty" and her two best-friend ---Booger and Snot --- fat cats--- who gain powerful magic and then get lost in NYC.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd956bd5-1e93-4301-9813-eb0e5e581937.jpg)
-
-The third is Lady The Smiling Pitbull which is an urban fairytale set to music which follows the adventures of Lady, a baby pitbull who just wants to be "pretty" and her two best-friend ---Booger and Snot --- fat cats--- who gain powerful magic and get lost in NYC.
-
-All three are registered and if you want to know more, I can connect you with my legal and business team.
+All three of the multi-media children properties are in various stages of development and are registered.  For more information on the projects please email me and I can connect you with my legal and business team: lapacazo.sandoval@gmail.com
 
 Below are a few links to my writing and I will update weekly.
 
@@ -80,7 +75,6 @@ Below are a few links to my writing and I will update weekly.
 [http://www.mynewyorkeye.com/film-news/the-academy-looks-to-the-future-with-a-colorful-eye][0]
 
 Please follow me at @lapacazo and @sleepytown1
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/159d4563-d950-4484-9bee-c5c17bcddd84.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/990cffaab8d59e3a4a99c1681672f9d5/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2c976395-9401-44f3-9670-4e9bb28a84ae.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2846c423-4ba6-4ee5-bd09-2f5986863eb9.jpg)
 
