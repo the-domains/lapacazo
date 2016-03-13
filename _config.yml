@@ -1,7 +1,7 @@
 name: '@lapacazo'
 favicon: null
 layout_spectrum: 0.11768797738477588
-typography_spectrum: 0.8399860509671271
+typography_spectrum: 0.76179
 title: '@lapacazo-What Do You Know?'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#b8c942'
+    - '#d92959'
+    - '#000000'
+    - '#eb88a2'
   brandStrength: 0.8912244976963848
   lightness: 0.9293584108818322
   saturation: 0.458266006084159
