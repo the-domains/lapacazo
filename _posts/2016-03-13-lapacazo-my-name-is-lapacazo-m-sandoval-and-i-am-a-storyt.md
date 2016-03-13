@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "@lapacazo. My name is Lapacazo M. Sandoval and I am a storyteller. I am a unit publicist. I am a journalist. \_I am a soul that loves discovering ... discovering new people, new worlds and new parts of myself. \_"
-datePublished: '2016-03-13T23:14:03.424Z'
-dateModified: '2016-03-13T23:12:47.285Z'
+datePublished: '2016-03-13T23:20:35.110Z'
+dateModified: '2016-03-13T23:14:11.009Z'
 title: ''
 author: []
 authors: []
@@ -22,31 +22,31 @@ url: lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html
 _type: Article
 
 ---
-@lapacazo - 
+@lapacazo - [bit.ly/][0]
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f15de9-b220-4279-8017-16719236f834.jpg)
 
-My name is Lapacazo M. Sandoval and I am a storyteller.  My C.V. details my extensive background as a unit \[film\] publicist (IASTSE LOCAL 600) and my current work as an entertainment journalist covering film, film festivals, and big ticket events like the Tony Awards, SAG Awards and The Oscars.
+**M**y name is Lapacazo M. Sandoval and I am a storyteller.  My C.V. details my extensive background as a unit \[film\] publicist (IASTSE LOCAL 600) and my current work as an entertainment journalist covering film, film festivals, and big ticket events like the Tony Awards, SAG Awards and The Oscars.
 
-That's one side. [@lapacazo][0]
+**T**hat's one side. [@lapacazo][0]
 
-To be honest, I don't dig staying in one labeled box or another too long; I am jumpy much like a comical flea; wearing a shiny silver top hat and coal black tails keeping up appearances on the center stage known as life.
+**T**o be honest, I don't dig staying in one labeled box or another too long; I am jumpy much like a comical flea; wearing a shiny silver top hat and coal black tails keeping up appearances on the center stage known as life.
 
-I am not ashamed to admit that I recently learned the difference between listening and hearing.
+**I** am not ashamed to admit that I recently learned the difference between listening and hearing.
 
-Somewhere between actually breathing, letting go and forgiving myself, I begun to listen to the stories that surround my world and as such, I've begun my own "walk about" --- engaging all types of creative people and scratching at what makes them tick.
+**S**omewhere between actually breathing, letting go and forgiving myself, I begun to listen to the stories that surround my world and as such, I've begun my own "walk about" --- engaging all types of creative people and scratching at what makes them tick.
 
-But let me walk backward again and share that, as a storyteller, I am developing three multi-media children stories that all focus on ordinary characters that gain magical powers which help them learn creative ways of dealing with the big, bad bullies that plague their lives.
+**B**ut let me walk backward again and share that, as a storyteller, I am developing three multi-media children stories that all focus on ordinary characters that gain magical powers which help them learn creative ways of dealing with the big, bad bullies that plague their lives.
 
-The first is The SleepyTown Collection which is about a bully free, magical world where all kids are loved equally, and animals pretty much run the magical joint.
+**T**he first is The SleepyTown Collection which is about a bully free, magical world where all kids are loved equally, and animals pretty much run the magical joint.
 
-The second multi-media children property is BOOGALOO.  Hold on to your hats, this adventure is about a feisty, dance-crazed fairy that's being chased by a handsome, rap obsessed and spoiled pre-tween prince and his  immortal side-kick D.J. Badger.
+**T**he second multi-media children property is BOOGALOO.  Hold on to your hats, this adventure is about a feisty, dance-crazed fairy that's being chased by a handsome, rap obsessed and spoiled pre-tween prince and his  immortal side-kick D.J. Badger.
 
-The third is Lady, The Smiling Pitbull which is a modern, urban fairytale set to music which follows the magical, mis-adventures of Lady, a baby pitbull who just wants to be "pretty" and her two best-friend ---Booger and Snot --- fat cats--- who gain powerful magic and then get lost in NYC.
+**T**he third is Lady, The Smiling Pitbull which is a modern, urban fairytale set to music which follows the magical, mis-adventures of Lady, a baby pitbull who just wants to be "pretty" and her two best-friend ---Booger and Snot --- fat cats--- who gain powerful magic and then get lost in NYC.
 
-All three of the multi-media children properties are in various stages of development and are registered.  For more information on the projects please email me and I can connect you with my legal and business team: lapacazo.sandoval@gmail.com
+**A**ll three of the multi-media children properties are in various stages of development and are registered.  For more information on the projects please email me and I can connect you with my legal and business team: lapacazo.sandoval@gmail.com
 
-Below are a few links to my writing and I will update weekly.
+**B**elow are a few links to my writing and I will update weekly.
 
 [Essencee.com:  http://www.essence.com/2016/02/19/eclipsed-lupita-nyongo-producer-stephen-bryd-alia-jones-harvey-broadway-history][0]
 
@@ -76,8 +76,8 @@ Below are a few links to my writing and I will update weekly.
 
 Please follow me at @lapacazo and @sleepytown1
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/990cffaab8d59e3a4a99c1681672f9d5/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2c976395-9401-44f3-9670-4e9bb28a84ae.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2846c423-4ba6-4ee5-bd09-2f5986863eb9.jpg)
 
+  
   
 
 
