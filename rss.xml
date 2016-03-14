@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 23:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 00:54:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Sun, 13 Mar 2016 23:29:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>New York is poignant ....</p>]]></description>
+            <link>https://thegrid.ai/lapacazo/4e312a23-3650-4545-baf9-49ab599f2431/index.html</link>
+            <guid isPermaLink="false">4e312a23-3650-4545-baf9-49ab599f2431</guid>
+            <pubDate>Mon, 14 Mar 2016 00:54:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
