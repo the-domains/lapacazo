@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 19:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 20:25:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c999ef91-2289-4e1a-856c-0e4d4cb57fc5.jpg">]]></description>
+            <link>https://thegrid.ai/lapacazo/undefined/index.html</link>
+            <guid isPermaLink="false">6831901b-105f-4aae-94be-e1a788a3e401</guid>
+            <pubDate>Mon, 14 Mar 2016 20:25:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lapacazo/the-sleepytown-crew-recommends/index.html</link>
             <guid isPermaLink="false">594a774a-6fc7-4fdd-835c-339250d266a0</guid>
             <pubDate>Mon, 14 Mar 2016 15:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/123b9e3c-c980-429b-bacf-072d3b1c3eae.jpg">]]></description>
-            <link>https://thegrid.ai/lapacazo/4e312a23-3650-4545-baf9-49ab599f2431/index.html</link>
-            <guid isPermaLink="false">4e312a23-3650-4545-baf9-49ab599f2431</guid>
-            <pubDate>Mon, 14 Mar 2016 16:07:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
