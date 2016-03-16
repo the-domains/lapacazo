@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 03:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 11:24:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>undefined</p>]]></description>
+            <link>https://thegrid.ai/lapacazo/undefined/index.html</link>
+            <guid isPermaLink="false">2d69196c-bf28-4ae9-bed4-46037d2a4fe4</guid>
+            <pubDate>Wed, 16 Mar 2016 11:23:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lapacazo/0c0baf99-3392-4321-a193-fdd2502eeae6/index.html</link>
             <guid isPermaLink="false">0c0baf99-3392-4321-a193-fdd2502eeae6</guid>
             <pubDate>Mon, 14 Mar 2016 15:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@lapacazo recommends you clear the deck and get ready to really, really laugh!</p>]]></description>
-            <link>https://thegrid.ai/lapacazo/e3256eaa-0334-4373-acc0-e4ab9662773c/index.html</link>
-            <guid isPermaLink="false">e3256eaa-0334-4373-acc0-e4ab9662773c</guid>
-            <pubDate>Mon, 14 Mar 2016 15:51:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
