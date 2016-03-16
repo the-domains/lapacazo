@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 20:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 03:02:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THE ACADEMY ADDS DIVERSE VOICES TO ITS LEADERSHIP</p>]]></description>
+            <link>https://thegrid.ai/lapacazo/the-academy-adds-diverse-voices-to-its-leadership/index.html</link>
+            <guid isPermaLink="false">8b7fa454-2a7f-45ff-ae4d-305ae8c832f2</guid>
+            <pubDate>Wed, 16 Mar 2016 03:02:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lapacazo/e3256eaa-0334-4373-acc0-e4ab9662773c/index.html</link>
             <guid isPermaLink="false">e3256eaa-0334-4373-acc0-e4ab9662773c</guid>
             <pubDate>Mon, 14 Mar 2016 15:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The SleepyTown Crew Recommends]]></title>
-            <description><![CDATA[<article><h1>The SleepyTown Crew Recommends</h1><p>Aaron "the fearless,  Sharon "the eyes and brains" and Little "C" the fixer/Newton --- who re-opened the long closed gates to the magical world of SleepyTown recommends: ALICE THROUGH THE LOOKING GLASS</p></article>]]></description>
-            <link>https://thegrid.ai/lapacazo/the-sleepytown-crew-recommends/index.html</link>
-            <guid isPermaLink="false">594a774a-6fc7-4fdd-835c-339250d266a0</guid>
-            <pubDate>Mon, 14 Mar 2016 15:44:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
