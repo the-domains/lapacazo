@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 11:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 12:09:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The New York Historical Society might not be the first place you’d think would stage an exhibit dedicated to the career and work of award-winning, bestselling children’s book author — and former Brooklynite — Mo Willems. (Although yes, his books do feature a city bus-obsessed pigeon, a Park Slope laundromat and some might say, characters with a distinct NYC sensibility.) But who really cares? The books are gems, and anyone who’s a fan of that cranky pigeon, Trixie and Knuffle Bunny, Elephant and Piggie (or any of Willems’ other charming creations) should hightail it to this new show faster than you can say “Aggle flaggle klabble!”</p>]]></description>
+            <link>https://thegrid.ai/lapacazo/the-new-york-historical-society-might-not-be-the-first-place/index.html</link>
+            <guid isPermaLink="false">3a1ed20e-2436-4561-9004-dc1f46483031</guid>
+            <pubDate>Tue, 22 Mar 2016 12:08:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lapacazo/null/index.html</link>
             <guid isPermaLink="false">2cf909ca-7a48-495e-9ce0-141f3e516a8c</guid>
             <pubDate>Mon, 14 Mar 2016 16:29:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>New stories. New storytellers.</p>]]></description>
-            <link>https://thegrid.ai/lapacazo/new-stories-new-storytellers/index.html</link>
-            <guid isPermaLink="false">6fa3a99c-bfd1-43b8-889c-b3a410e9127e</guid>
-            <pubDate>Mon, 14 Mar 2016 16:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
