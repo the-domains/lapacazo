@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 18:10:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/lapacazo/7d3fa451-94fd-440b-a3bf-6730cf462d34/index.html</link>
+            <guid isPermaLink="false">7d3fa451-94fd-440b-a3bf-6730cf462d34</guid>
+            <pubDate>Sat, 26 Mar 2016 18:09:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lapacazo/the-academy-adds-diverse-voices-to-its-leadership/index.html</link>
             <guid isPermaLink="false">8b7fa454-2a7f-45ff-ae4d-305ae8c832f2</guid>
             <pubDate>Wed, 16 Mar 2016 03:02:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c999ef91-2289-4e1a-856c-0e4d4cb57fc5.jpg">]]></description>
-            <link>https://thegrid.ai/lapacazo/undefined/index.html</link>
-            <guid isPermaLink="false">6831901b-105f-4aae-94be-e1a788a3e401</guid>
-            <pubDate>Mon, 14 Mar 2016 20:25:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
