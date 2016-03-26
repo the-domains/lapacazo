@@ -4,7 +4,7 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 17:22:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.essence.com/2016/03/25/tamara-haunter-named-vice-president-casting-sony</p>]]></description>
+            <link>https://thegrid.ai/lapacazo/httpwwwessencecom20160325tamara-haunter-named-vice-/index.html</link>
+            <guid isPermaLink="false">04a26f79-9238-425a-bcd6-c95db7c5efdf</guid>
+            <pubDate>Sat, 26 Mar 2016 17:21:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lapacazo/lapacazo-recommends-/index.html</link>
             <guid isPermaLink="false">392e08bc-cd0e-4f46-886c-55afbf24cafb</guid>
             <pubDate>Mon, 14 Mar 2016 19:58:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55df728c-6e9c-44b1-9706-1fc2d0a35650.jpg">]]></description>
-            <link>https://thegrid.ai/lapacazo/19dbdd00-0446-4026-aac6-039c2d7a44db/index.html</link>
-            <guid isPermaLink="false">19dbdd00-0446-4026-aac6-039c2d7a44db</guid>
-            <pubDate>Mon, 14 Mar 2016 17:14:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
