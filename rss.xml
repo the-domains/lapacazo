@@ -4,11 +4,18 @@
         <description><![CDATA[@lapacazo-What Do You Know?]]></description>
         <link>https://thegrid.ai/lapacazo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 18:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 17:10:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lapacazo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The critically acclaimed, box office smash </p>]]></description>
+            <link>https://thegrid.ai/lapacazo/the-critically-acclaimed-box-office-smash/index.html</link>
+            <guid isPermaLink="false">990cd7f2-fc24-4616-a116-b28b39e5115a</guid>
+            <pubDate>Mon, 09 May 2016 17:10:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[@lapacazo - What Do You Know?]]></title>
-            <description><![CDATA[<article><h1>@lapacazo - What Do You Know?</h1><p>Please follow me at @lapacazo and @sleepytown1</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fee8fca79a010efe93a36c9e8442cd15f2384ee5.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f15de9-b220-4279-8017-16719236f834.jpg">]]></description>
             <link>https://thegrid.ai/lapacazo/lapacazo-my-name-is-lapacazo-m-sandoval-and-i-am-a-storyt/index.html</link>
             <guid isPermaLink="false">f2b79f19-4311-4fab-b630-9b51104eb7a9</guid>
             <pubDate>Mon, 14 Mar 2016 01:06:00 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/lapacazo/deadlines-first-everthe-contendersemmys-event-is-at-capacit/index.html</link>
             <guid isPermaLink="false">84128a9a-b093-460e-8d86-ac4dc44a1019</guid>
             <pubDate>Sat, 26 Mar 2016 18:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The critically acclaimed, box office smash </p>]]></description>
-            <link>https://thegrid.ai/lapacazo/the-critically-acclaimed-box-office-smash/index.html</link>
-            <guid isPermaLink="false">990cd7f2-fc24-4616-a116-b28b39e5115a</guid>
-            <pubDate>Sat, 26 Mar 2016 18:16:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -64,7 +64,7 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>undefined</p>]]></description>
+            <description><![CDATA[undefined]]></description>
             <link>https://thegrid.ai/lapacazo/undefined/index.html</link>
             <guid isPermaLink="false">17ceb001-af93-4ab5-9115-96094d520ad0</guid>
             <pubDate>Sat, 26 Mar 2016 17:15:44 GMT</pubDate>
